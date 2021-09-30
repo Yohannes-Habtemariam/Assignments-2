@@ -1,0 +1,70 @@
+
+. main {
+    width: 100%;
+    
+
+}
+
+
+.section1{
+    width: 30%;
+    margin-left: 5rem;
+    display: inline-block;
+
+   
+}
+
+.section2{
+    width: 50%;
+    margin-top: 0em;
+    margin-left: 5rem;
+    display: inline-block;
+    
+}
+.section1 h1{
+    color: red;
+
+}
+.section1 h2{
+    color: orange;
+}
+.section1 h3{
+    color: yellow;
+}
+.section1 h4{
+    color: green;
+}
+
+.section1 h5{
+    color: blue;
+}
+.section1 h6{
+    color: indigo;
+}
+
+/* Second part of coloring*/
+
+.section2 h1{
+    color: rgba(219, 74, 74, 0.952);
+
+}
+.section2 h2{
+    color: rgba(241, 162, 14, 0.493);
+}
+.section2 h3{
+    color: rgba(247, 247, 17, 0.938);
+}
+.section2 h4{
+    color: rgba(25, 235, 25, 0.418);
+}
+
+.section2 h5{
+    color: rgba(42, 42, 224, 0.753);
+}
+.section2 h6{
+    color: rgba(150, 15, 247, 0.952);
+}
+.section2 p{
+    color: #800fd1;
+    font-size: 1.2rem;
+}
